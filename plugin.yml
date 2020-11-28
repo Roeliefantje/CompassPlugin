@@ -1,0 +1,12 @@
+main: me.Roeliefantje.CompassPlugin.Main
+name: CompassPlugin
+version: 1.0
+author: Roeliefantje
+
+commands:
+  focus:
+    usage: /focus <targetName>
+    description: focus compasses on a target
+  compass:
+    usage: /compass
+    description: give player a compass
